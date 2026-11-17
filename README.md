@@ -17,23 +17,4 @@ A simple and clean web application built using **Node.js**, **Express.js**, and 
 - **Styling:** HTML5, CSS3
 - **Packages Used:** `express`, `ejs`, `uuid`, `method-override`
 
-## 💻 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone <your-github-repo-link>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd REST_CLASS
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the server:
-   ```bash
-   npx nodemon index.js
-   ```
-5. Open your browser and visit:
-   `http://localhost:8080/posts`
